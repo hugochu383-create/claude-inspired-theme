@@ -1,0 +1,1 @@
+codex-theme-v1:{"codeThemeId":"codex","theme":{"accent":"#C96442","accentSource":"custom","contrast":45,"fonts":{"code":null,"content":"Songti SC","ui":"Songti SC"},"ink":"#302D29","opaqueWindows":false,"semanticColors":{"diffAdded":"#4F7B55","diffRemoved":"#B84C3A","skill":"#A86A50"},"surface":"#F5F3EC"},"variant":"light"}
